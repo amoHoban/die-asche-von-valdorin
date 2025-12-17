@@ -1,5 +1,7 @@
 # Die Asche von Valdorin
 
+Game, Soulslike, Game-Development, RPG, Fantasy RPG
+
 Ein narratives Dark-Fantasy-RPG-Konzept mit verzweigter Story und moralischen Grauzonen.
 
 ![Genre](https://img.shields.io/badge/Genre-Dark%20Fantasy%20RPG-8B0000)
